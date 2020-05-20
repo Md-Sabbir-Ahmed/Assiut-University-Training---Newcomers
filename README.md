@@ -1,6 +1,4 @@
 # Assiut University Training-Newcomers
-![download](https://user-images.githubusercontent.com/64752426/82268744-92c65300-9991-11ea-9410-2e91b68249b0.png)
-
 
 | Name | Problems Count | Solved | Unsolved
 |---|:---:|:---:|---|
