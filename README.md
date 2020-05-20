@@ -3,7 +3,7 @@
 | Name | Problems Count | Solved | Unsolved
 |---|:---:|:---:|---|
 [Sheet #1 (Data type - Conditions)](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|26|24|2
-[Sheet #2 (Loops)](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|26|15|11
+[Sheet #2 (Loops)](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|26|17|9
 [Sheet #3 (Arrays)](https://codeforces.com/group/MWSDmqGsZm/contest/219774)|26|0|26
 [Sheet #4 (Strings)](https://codeforces.com/group/MWSDmqGsZm/contest/219856)|26|0|26
 [Sheet #5 (Functions)](https://codeforces.com/group/MWSDmqGsZm/contest/223205)|26|0|26
